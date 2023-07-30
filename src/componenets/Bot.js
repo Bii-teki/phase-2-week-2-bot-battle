@@ -56,6 +56,7 @@ function setStator(e) {
       <div className="">       
                <div className="text-center p-5 flex-auto justify-center">
                     <img src={selected.avatar_url} alt={selected.name} />
+                    
                           <h2 className="text-xl font-bold py-4 ">Name: {selected.name}</h2>
                           <p className="text-sm text-gray-500 px-8">Health: {selected.health}</p>  
                           <p className="text-sm text-gray-500 px-8">Damage: {selected.damage}</p>  
