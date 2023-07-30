@@ -28,7 +28,6 @@ Run `npm start` for a dev server. Navigate to `http://localhost:3000/`. The app 
 Run `npm build` to build the project. The build project will be stored in the `build` directory.
 
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
 
 
@@ -43,11 +42,11 @@ The following have been used on this project:
 
 
 
-#### Live link to view the project <a href="/">View Jobs Portal</a>
+#### Live link to view the project <a href="/">View Arm Bot</a>
 
 
 
-## Screenshots Of the Figma Design
+## Screenshots Of the Arm Bot
 
 - Homepage
 
@@ -55,15 +54,15 @@ The following have been used on this project:
 
 - Search with black backround theme
 
-  <img src="./screenshots/Job Details.png" alt="screenshot" />
+  <img src="[./screenshots/Job Details.png" alt="screenshot](https://github.com/Bii-teki/phase-2-week-2-bot-battle/tree/main)](https://github.com/Bii-teki/phase-2-week-2-bot-battle/blob/main/public/screenshots/Screenshot%20from%202023-07-31%2000-11-31.png)" />
 
 - add bot to army
 
-  <img src="./screenshots/Create Job Page.png" alt="screenshot" />
+  <img src="[./screenshots/Create Job Page.png" alt="screenshot](https://github.com/Bii-teki/phase-2-week-2-bot-battle/blob/main/public/screenshots/Screenshot%20from%202023-07-31%2000-11-53.png)" />
 
 - view bot
 
-  <img src="./screenshots/Jobs List.png" alt="screenshot" />
+  <img src="[./screenshots/Jobs List.png" alt="screenshot](https://github.com/Bii-teki/phase-2-week-2-bot-battle/blob/main/public/screenshots/Screenshot%20from%202023-07-31%2000-11-41.png)" />
 
 
   ## Known Bugs
