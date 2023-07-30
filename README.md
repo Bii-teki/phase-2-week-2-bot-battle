@@ -42,7 +42,7 @@ The following have been used on this project:
 
 
 
-#### Live link to view the project <a href="/">View Arm Bot</a>
+#### Live link to view the project <a href="https://64c6ddedf2526243671c17eb--elaborate-phoenix-0d6c85.netlify.app/">View Arm Bot</a>
 
 
 
