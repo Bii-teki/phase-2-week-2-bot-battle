@@ -10,7 +10,7 @@ function Bot({ bot, onAddToArmy, onRelease, onDischarge, onDeleteBots }) {
     e.preventDefault()
     const id = parseInt(e.target.id)
 
-     fetch(`http://localhost:3000/bots/${id}`)
+     fetch(`https://bot-yv0d.onrender.com/bots/${id}`)
      .then(r=>r.json())
      .then(data=>setSelected(data)    
       
@@ -35,7 +35,7 @@ function setStator(e) {
      e.preventDefault()
      const id = parseInt(e.target.id)
 
-     fetch(`http://localhost:3000/bots/${id}`,
+     fetch(`https://bot-yv0d.onrender.com/bots/${id}`,
      {
       method:"DELETE"
     })

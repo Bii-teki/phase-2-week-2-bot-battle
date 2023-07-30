@@ -17,7 +17,7 @@ function App() {
   
 
   useEffect(()=>{
-   fetch(" http://localhost:3000/bots?q="+ query)
+   fetch(" https://bot-yv0d.onrender.com/bots?q="+ query)
    .then(r=>r.json())
    .then(data=>setBots(data))  
   },[query])
