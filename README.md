@@ -54,15 +54,15 @@ The following have been used on this project:
 
 - Search with black backround theme
 
-  <img src="[./screenshots/Job Details.png" alt="screenshot](https://github.com/Bii-teki/phase-2-week-2-bot-battle/tree/main)](https://github.com/Bii-teki/phase-2-week-2-bot-battle/blob/main/public/screenshots/Screenshot%20from%202023-07-31%2000-11-31.png)" />
+  <img src="https://github.com/Bii-teki/phase-2-week-2-bot-battle/tree/main)](https://github.com/Bii-teki/phase-2-week-2-bot-battle/blob/main/public/screenshots/Screenshot%20from%202023-07-31%2000-11-31.png" />
 
 - add bot to army
 
-  <img src="[./screenshots/Create Job Page.png" alt="screenshot](https://github.com/Bii-teki/phase-2-week-2-bot-battle/blob/main/public/screenshots/Screenshot%20from%202023-07-31%2000-11-53.png)" />
+  <img src="https://github.com/Bii-teki/phase-2-week-2-bot-battle/blob/main/public/screenshots/Screenshot%20from%202023-07-31%2000-11-53.png" />
 
 - view bot
 
-  <img src="[./screenshots/Jobs List.png" alt="screenshot](https://github.com/Bii-teki/phase-2-week-2-bot-battle/blob/main/public/screenshots/Screenshot%20from%202023-07-31%2000-11-41.png)" />
+  <img src="https://github.com/Bii-teki/phase-2-week-2-bot-battle/blob/main/public/screenshots/Screenshot%20from%202023-07-31%2000-11-41.png" />
 
 
   ## Known Bugs
