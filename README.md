@@ -1,71 +1,99 @@
-# Getting Started with Create React App
+# Arm Bort
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### Created By Geoffrey Bii on 31-07-2023
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+## Description
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Arm Bort is an application which allows users to create  bot army and display the bots from json file. It also allows one to view a single bot. This application prevents the user to have same bot on an army or even bots from same class. 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Setup Requirements
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Git
+- Web-browser or your choice
+- Github
+- React Js technology
+- Node.js (https://nodejs.org/)
+- NPM (https://www.npmjs.com/)
 
-### `npm run build`
+## Development server
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Run `npm start` for a dev server. Navigate to `http://localhost:3000/`. The app will automatically reload if you change any of the source files.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Build
+Run `npm build` to build the project. The build project will be stored in the `build` directory.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Technologies Used
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+The following have been used on this project:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- HTML
+- CSS
+- Tailwind
+- React Js
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+#### Live link to view the project <a href="/">View Jobs Portal</a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Screenshots Of the Figma Design
 
-### Advanced Configuration
+- Homepage
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+  <img src="./screenshots/Homepage.png" alt="screenshot" />
 
-### Deployment
+- Search with black backround theme
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+  <img src="./screenshots/Job Details.png" alt="screenshot" />
 
-### `npm run build` fails to minify
+- add bot to army
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# phase-2-week-2-bot-battle
+  <img src="./screenshots/Create Job Page.png" alt="screenshot" />
+
+- view bot
+
+  <img src="./screenshots/Jobs List.png" alt="screenshot" />
+
+
+  ## Known Bugs
+
+So far so good there are no bugs related to this project 😎
+
+## Support and contact details 🙂
+
+To make a contribution to the code used or any suggestions you can click on the contact link and email me your suggestions.
+
+- Email: gefbii@gmail.com
+
+## License
+
+Copyright (c) 2022 Wilson Kinyua Muthoni.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files , to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
