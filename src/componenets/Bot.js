@@ -32,18 +32,18 @@ function setStator(e) {
 
   function handleView(e) {
 
-     e.preventDefault()
-     const id = parseInt(e.target.id)
+  //    e.preventDefault()
+  //    const id = parseInt(e.target.id)
 
-     fetch(`http://localhost:3000/bots/${id}`,
-     {
-      method:"DELETE"
-    })
+  //    fetch(`http://localhost:3000/bots/${id}`,
+  //    {
+  //     method:"DELETE"
+  //   })
     
-    onDeleteBots(id)
-    alert("Hello, you have deleted!")
+  //   onDeleteBots(id)
+  //   alert("Hello, you have deleted!")
    
-   }
+  //  }
   
     if(state){
 
