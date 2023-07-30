@@ -51,7 +51,7 @@ The following have been used on this project:
 
 - Homepage
 
-  <img src="./screenshots/Screenshot%20from%202023-07-31%2000-10-46.png" alt="screenshot" />
+  <img src="https://github.com/Bii-teki/phase-2-week-2-bot-battle/blob/main/public/screenshots/Screenshot%20from%202023-07-31%2000-10-46.png" alt="screenshot" />
 
 - Search with black backround theme
 
